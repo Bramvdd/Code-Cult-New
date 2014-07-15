@@ -5,8 +5,9 @@
 <title>Code Cult website</title> 
 </head>
 
+<a href="http://www.github.com">Algemeen</a>
 <a href="http://www.github.com">Primair onderwijs</a>
-<a href="http://www.github.com">Primair onderwijs</a>
+<a href="http://www.github.com">Voortgezet onderwijs</a>
 
 <body>
   <h1>Algemeen</h1>
