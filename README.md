@@ -1,10 +1,12 @@
 Code-Cult-New
 =============
 
-CC nieuwe site
+<html>
+<head> 
+<title>Code Cult website</title> 
+</head>
 
-<head> Code Cult website </head>
-
+<body>
 <h1>Primair Ondrwijs</h1>
   <h2>Schoolleiders<h2>
   <h2>Docenten</h2>
@@ -12,3 +14,8 @@ CC nieuwe site
 <h1>Voortgezet onderwijs</h1>
   <h2>Schoolleiders</h2>
   <h2>Docenten</h2>
+
+
+
+</body>
+</html>
